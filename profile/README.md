@@ -1,4 +1,4 @@
-# JENSEN – Software Architecture
+# JENSEN – Software-Architektur
 
 Perfect digital experiences. Scalable and high-performance. For agencies, companies, and startups.
 
