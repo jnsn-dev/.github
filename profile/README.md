@@ -1,23 +1,30 @@
-# JENSEN – Software-Architektur
+# JENSEN – Software Architecture
 
-Perfekte digitale Erlebnisse. Skalierbar und performant. Für Agenturen, Unternehmen und Startups. UX-, Business- und Brand-Awareness gehören zu jeder Konzeption und Umsetzung. Perfekte Software-Architektur ist Maßarbeit. Passende Lösungen entstehen im Miteinander. Im Zusammenspiel aus fachlicher Kompetenz und Erfahrung sowie zielgerichtetem Teamwork entstehen erstklassige digitale Produkte.
+Perfect digital experiences. Scalable and high-performance. For agencies, companies, and startups.
+
+UX, business, and brand awareness are integral to every concept and implementation. Perfect software architecture is custom craftsmanship. The right solutions are created through collaboration. First-class digital products emerge from the interaction of technical expertise, experience, and focused teamwork.
 
 ---
 
-## ⚙️ Leistungen
+## ⚙️ Services
 
 🧩 **Websites**
-Nutzerzentrierte Auftritte für hervorragende UX. Moderne Frameworks und schlanker Code. Modular und beliebig erweiterbar.
 
-📱 **Web-Apps**
-Maßgeschneiderte Software für komplexe Anforderungen. Von der Umsetzung der Geschäftsidee bis zum SaaS-Portal.
+User-centered experiences for outstanding UX. Modern frameworks and lean code. Modular and easily extensible.
+
+📱 **Web Apps**
+
+Tailor-made software for complex requirements. From implementing the business idea to full SaaS platforms.
 
 🔗 **APIs**
-Automatisierter Datenaustausch nach Standards. Öffentliche oder abgesicherte Schnittstellen für Web-, IoT- und Mobil-Apps.
 
-## 🧩 Technologien
+Automated data exchange based on standards. Public or secured interfaces for web, IoT, and mobile apps.
 
-🧱 **Back-End Entwicklung (Laravel-Fokus)**
+---
+
+## 🧩 Technologies
+
+🧱 **Back-End Development (Laravel Focus)**
 
 -   PHP / Laravel
 -   Livewire
@@ -25,29 +32,30 @@ Automatisierter Datenaustausch nach Standards. Öffentliche oder abgesicherte Sc
 -   Filament
 -   Statamic
 
-🎨 **Front-End Entwicklung**
+🎨 **Front-End Development**
 
--   Rapid Prototyping
+-   Rapid prototyping
 -   Vanilla JavaScript
 -   Vue.js
 -   Alpine.js
 -   Tailwind CSS
 
-🔌 **API Entwicklung**
+🔌 **API Development**
 
 -   REST
 -   GraphQL
 
-⚙️ **DevOps & Infrastruktur**
+⚙️ **DevOps & Infrastructure**
 
 -   Amazon AWS
 -   Microsoft Azure
 
 ---
 
-## 📍 Kontakt
+## 📍 Contact
 
-📌 München
+📌 Munich
 
 🌐 https://www.jensen.dev
+
 ✉️ hi@jensen.dev
